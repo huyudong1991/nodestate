@@ -63,7 +63,7 @@ group = caddy
 再次执行ssrstatus.sh脚本选择6添加你的ssr配置，之后执行./ssrstatus.sh t 即可批量监测脚本了
 
 ## 细节操作
-请参考逗比的说明文档 https://github.com/ToyoDAdoubi/SSRStatus
+更多细节操作例如修改网站目录，批量添加节点的操作，请参考逗比的说明文档 https://github.com/ToyoDAdoubi/SSRStatus
 
 ## 鸣谢
 逗比的源码-挺好的html源码及延迟测试源码
