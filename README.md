@@ -53,7 +53,7 @@ group = caddy
 ### 添加新用户
 `useradd caddy`
 ### 重启php和caddy
-`systemctl start php-fpm`
+`systemctl restart php-fpm`
 
 `service caddy restart`
 
