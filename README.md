@@ -59,7 +59,14 @@ group = caddy
 
 此时打开你的ip:端口应该可以访问监测网页
 
+### 安装python后端
+`wget -N --no-check-certificate https://raw.githubusercontent.com/huyudong1991/nodestate/master/shadowsocksR.sh && chmod +x ssrstatus.sh && bash shadowsocksR.sh`
+
+配置瞎写安装一遍就行，没影响。
+### 添加ss/ssr配置
 再次执行ssrstatus.sh脚本选择6添加你的ssr配置，之后执行./ssrstatus.sh t 即可批量监测脚本了
+
+
 
 ## 细节操作
 更多细节操作例如修改网站目录，批量添加节点的操作，请参考逗比的说明文档 https://github.com/ToyoDAdoubi/SSRStatus
