@@ -748,6 +748,7 @@ http://${server_s}:${server_port_s} {
  root ${Web_file}
  timeouts none
  gzip
+ fastcgi / 127.0.0.1:9000 php
 }
 EOF
 			/etc/init.d/caddy restart
@@ -758,6 +759,7 @@ http://${server_s}:${server_port_s} {
  root ${Web_file}
  timeouts none
  gzip
+ fastcgi / 127.0.0.1:9000 php
 }
 EOF
 			/etc/init.d/caddy restart
