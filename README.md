@@ -4,7 +4,7 @@
 本引导基于Centos7，其他系统自行尝试。
 
 ### 实物图
-![sample](https://raw.githubusercontent.com/huyudong1991/nodestate/master/sample.jpg)
+![sample](https://raw.githubusercontent.com/huyudong1991/nodestate/master/screen.jpg)
 
 
 ### 下载并运行脚本
