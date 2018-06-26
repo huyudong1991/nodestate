@@ -131,7 +131,7 @@ echo "<b><tr><td>".$class."</td><td><b>".$nodes["servers"][$i-1]["name"]."</b></
 		</div>
 	  </div>
 	<br/>
-	<p style="text-align:center">© 2017~2018 豆豆壁纸 All Rights 
+	<p style="text-align:center">© 2017~2018 myweb All Rights 
 
 Reserved.</p>
   </div>
