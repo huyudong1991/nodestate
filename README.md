@@ -4,8 +4,7 @@
 本引导基于Centos7，其他系统自行尝试。
 
 ### 实物图
-![sample](https://raw.githubusercontent.com/huyudong1991/nodestate/master/screen.jpg)
-<img src="https://raw.githubusercontent.com/huyudong1991/nodestate/master/screen.jpg" width="200px" />
+<img src="https://raw.githubusercontent.com/huyudong1991/nodestate/master/screen.jpg" width="300px" />
 
 ### 下载并运行脚本
 `wget -N --no-check-certificate https://raw.githubusercontent.com/huyudong1991/nodestate/master/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus.sh`
